@@ -1,0 +1,53 @@
+body, #mainWrapper {
+    height: 100%;
+    background-color:rgb(245, 245, 245);
+}
+
+.floatRight{
+    float:right;
+    margin-top: 18px;
+}
+
+.has-error{
+    color:red;
+}
+
+.uploadcontainer{
+    background-color: #eee;
+    padding: 20px;
+}
+
+.uploadcontainer.file{
+    background-color: #fddf1d;
+}
+
+.generic-container {
+    width:98%;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #EAE7E7;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 30px black;
+}
+
+.custom-width {
+    width: 170px !important;
+}
+
+.col-md-7 {
+    width: 103%;
+}
+
+.filter-group {
+    height: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.panel-heading.color{
+    background-color: #968847;
+}
